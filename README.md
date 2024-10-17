@@ -29,3 +29,6 @@ csharp
 BabyClass bebek1 = new BabyClass();
 bebek1.AddName = "Ahmet";
 bebek1.AddSurname = "Ertürk";
+
+## Kullandığım Araçlar ve Teknolojiler
+Programlama Dili: C# IDE: Visual Studio
